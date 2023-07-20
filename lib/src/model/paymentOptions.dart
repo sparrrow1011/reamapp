@@ -1,0 +1,1 @@
+enum paymentOptions { Bank, Paystack, Flutterwave }
